@@ -1,0 +1,1 @@
+# serverless-exif-remover
